@@ -1,2 +1,2 @@
-Pyrogram>=2.0.16
+pyrotgfork>=2.1.32.9
 asyncio~=3.4.3
